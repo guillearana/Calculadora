@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"es.guillearana.democonfxml","l":"CalculadoraController"},{"p":"es.guillearana.democonfxml","l":"HelloApplication"}];updateSearchResults();
